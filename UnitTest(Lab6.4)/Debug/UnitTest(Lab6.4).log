@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest(Lab6.4).cpp
+D:\Рабочий стол\дз\Лаб 6\Lab6.4\Lab6.4\Lab6.4.cpp(25,15): warning C4101: 'D': unreferenced local variable
+D:\Рабочий стол\дз\Лаб 6\Lab6.4\Lab6.4\Lab6.4.cpp(120): warning C4715: 'NMAXR': not all control paths return a value
+D:\Рабочий стол\дз\Лаб 6\Lab6.4\Lab6.4\Lab6.4.cpp(129): warning C4715: 'NMINR': not all control paths return a value
+     Creating library D:\Рабочий стол\дз\Лаб 6\Lab6.4\Debug\UnitTest(Lab6.4).lib and object D:\Рабочий стол\дз\Лаб 6\Lab6.4\Debug\UnitTest(Lab6.4).exp
+  UnitTest(Lab6.4).vcxproj -> D:\Рабочий стол\дз\Лаб 6\Lab6.4\Debug\UnitTest(Lab6.4).dll
